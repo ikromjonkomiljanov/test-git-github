@@ -14,3 +14,9 @@ h1 {
   text-align: center;
   margin-top: 20px;
 }
+
+p {
+  color: #666;
+  line-height: 1.6;
+  margin: 20px;
+}
